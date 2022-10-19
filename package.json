@@ -1,0 +1,14 @@
+{
+  "name": "cinehouse",
+  "version": "1.0.0",
+  "description": "Aplicação de cinema",
+  "main": "cinema.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "emoreirasj",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
